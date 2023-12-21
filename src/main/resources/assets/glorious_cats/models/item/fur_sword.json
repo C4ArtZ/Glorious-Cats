@@ -1,0 +1,6 @@
+{
+  "parent": "item/diamond_sword",
+  "textures": {
+    "layer0": "glorious_cats:item/fur_sword"
+  }
+}

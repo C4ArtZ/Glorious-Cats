@@ -1,0 +1,16 @@
+{
+  "item.glorious_cats.olivia": "Olivia",
+  "item.glorious_cats.mausi": "Mausi",
+  "item.glorious_cats.fur_sword": "Fur Sword",
+  "item.glorious_cats.catnip": "Catnip",
+  "item.glorious_cats.chicken_wing": "Chicken Wing",
+  "item.glorious_cats.cooked_chicken_wing": "Cooked Chicken Wing",
+
+  "itemgroup.glorious_cats.main": "Glorious Cats",
+
+  "tooltip.glorious_cats.mausi": "Favorite toy of the great goddess Olivia.",
+  "tooltip.glorious_cats.catnip": "I'm fast as Fuck Boiii!",
+
+  "block.glorious_cats.fur_block": "Block of Fur",
+  "block.glorious_cats.olivia": "Olivia"
+}

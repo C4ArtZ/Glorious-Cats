@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "glorious_cats:chicken_wing"
+  },
+  "result": "glorious_cats:cooked_chicken_wing",
+  "experience": 0.175,
+  "cookingtime": 100
+}

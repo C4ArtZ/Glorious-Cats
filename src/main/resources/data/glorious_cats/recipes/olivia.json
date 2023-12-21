@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#C#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "C": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "result": {
+    "item": "glorious_cats:olivia",
+    "count": 1
+  }
+}
